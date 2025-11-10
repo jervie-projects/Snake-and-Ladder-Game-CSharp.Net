@@ -19,7 +19,7 @@ Created as a **school project** to demonstrate practical use of forms, event-dri
 - C#  
 - Windows Forms  
 - .NET Framework
-- 
+  
 ## 🚀 How to Run
 1. Open the solution file (.sln in Visual Studio.  
 2. Build the project (Ctrl + Shift + B).  
@@ -28,5 +28,6 @@ Created as a **school project** to demonstrate practical use of forms, event-dri
    
  # Disclaimer
 - This is a **school project** created for learning purposes.  
-- The game is simple and designed for educational fun.  
+- The game is simple and designed for educational fun.
+- Any images, sounds, or online sources used are **not intended to infringe or instigate copyright**. 
 
